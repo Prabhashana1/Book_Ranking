@@ -32,4 +32,5 @@ public class Book {
     public int getRank() {
         return rank;
     }
+    
 }
